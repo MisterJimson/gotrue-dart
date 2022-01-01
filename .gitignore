@@ -20,3 +20,6 @@ doc/api/
 # is commented out by default.
 .vscode/
 .env
+
+# Jetbrains based IDEs use this folder for project configuration
+.idea/
